@@ -1,6 +1,6 @@
 # AnKunv2 in Flutter
 
-***The API used is not maintained by me and may cause issues.***
+***This scrapes `https://animension.to` which at the time of writing this, it no longer exists/reachable.***
 
 A clone of AnkunV2 with Flutter.
 
